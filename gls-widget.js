@@ -1,0 +1,1 @@
+// GLS Parcelshops widget
