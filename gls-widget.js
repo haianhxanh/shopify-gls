@@ -1,6 +1,6 @@
 // GLS Parcelshops widget
 let orderId = Shopify.checkout.order_id;
-
+console.log(orderId);
 function findGlsPs() {
   var glsDiv = document.createElement("div");
   glsDiv.setAttribute(
